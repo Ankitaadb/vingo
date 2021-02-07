@@ -1,0 +1,26 @@
+.container {
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.card {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-template-rows: auto;
+    column-gap: 1px;
+    row-gap: 1px;
+    margin: auto 10px;
+    width: calc(100% - 0px);
+    min-width: 50vw;
+    min-height: 50vh;
+    max-width: calc(80vh - 40px);
+}
+
+.bingo-square {
+    min-height: 12vh;
+    margin: 1px 1px; 
+    border: 1px dashed #babbbb 
+}
