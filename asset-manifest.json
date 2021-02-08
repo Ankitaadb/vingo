@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/vingo/static/css/main.f3b8d3e8.chunk.css",
+    "main.js": "/vingo/static/js/main.0cd17b37.chunk.js",
+    "main.js.map": "/vingo/static/js/main.0cd17b37.chunk.js.map",
+    "runtime-main.js": "/vingo/static/js/runtime-main.46a65094.js",
+    "runtime-main.js.map": "/vingo/static/js/runtime-main.46a65094.js.map",
+    "static/js/2.9a62621f.chunk.js": "/vingo/static/js/2.9a62621f.chunk.js",
+    "static/js/2.9a62621f.chunk.js.map": "/vingo/static/js/2.9a62621f.chunk.js.map",
+    "static/js/3.e595686a.chunk.js": "/vingo/static/js/3.e595686a.chunk.js",
+    "static/js/3.e595686a.chunk.js.map": "/vingo/static/js/3.e595686a.chunk.js.map",
+    "index.html": "/vingo/index.html",
+    "static/css/main.f3b8d3e8.chunk.css.map": "/vingo/static/css/main.f3b8d3e8.chunk.css.map",
+    "static/js/2.9a62621f.chunk.js.LICENSE.txt": "/vingo/static/js/2.9a62621f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.46a65094.js",
+    "static/js/2.9a62621f.chunk.js",
+    "static/css/main.f3b8d3e8.chunk.css",
+    "static/js/main.0cd17b37.chunk.js"
+  ]
+}
